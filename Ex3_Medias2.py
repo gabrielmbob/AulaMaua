@@ -18,3 +18,6 @@ while (nota >= 0):
     nota = int(raw_input('Digite a nota: '))
     listanotas.append(nota)
 print ('A media e: {0}'.format (media(listanotas[:-1])))
+
+# Nota: 1.0
+# Comentairo: muito bom

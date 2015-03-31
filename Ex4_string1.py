@@ -3,3 +3,6 @@ def inverte():
     print ('Sua palavra invertida eh: {0}'.format (palavra[::-1]))
 
 inverte()
+
+# Nota: 1.0
+# Comentario: *
